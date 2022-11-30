@@ -1,0 +1,6 @@
+delta:  0.1 10
+t_h:    0.1 3
+v_set:  14  25
+acc_a_max:  0.5 5
+acc_a_min:  0.5 5
+d_0:    0.1 3

@@ -1,0 +1,7 @@
+t_h:    0.1 3
+teta:   0   3
+acc_a_max:  0.5 5
+v_set:  30  35
+acc_a_min:  0.5 5
+est_a_min_p:    0.5 5
+d_0:    0.1 3

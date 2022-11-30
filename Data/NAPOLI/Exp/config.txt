@@ -1,0 +1,6 @@
+ModelID:    2
+VehicleID:  0
+GOF:        0
+PopSize:    100
+Parallel:   0
+NumCPUs:    2

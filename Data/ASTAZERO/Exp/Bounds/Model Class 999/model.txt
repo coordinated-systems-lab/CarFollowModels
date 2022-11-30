@@ -1,0 +1,1 @@
+success=1;d_1=Parm.x3+Parm.x4*Parm.x5;actualSpacing=xLeadDelay-xFollDelay-Parm.l_i_1;if actualSpacing<Parm.x3;vStar=0;elseif actualSpacing<=d_1;vStar=(actualSpacing-Parm.x3)/Parm.x4;else;vStar=Parm.x5;end;errorSpeed=vStar-vFollDelay;errorDeltaSpeed=vLeadDelay-vFollDelay;a=Parm.x1*errorSpeed+Parm.x2*errorDeltaSpeed;
